@@ -33,6 +33,7 @@ public class SequenciaFibonacci {
         
         Scanner scanner = new Scanner(System.in);
 
+        // Usuário digita o número e salva o mesmo.
         System.out.println("Qual o número desejado?");
         int num = scanner.nextInt();
 
