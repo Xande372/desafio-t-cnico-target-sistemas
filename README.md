@@ -1,1 +1,0 @@
-# desafio-t-cnico-target-sistemas
